@@ -1,1 +1,4 @@
-alert("I am an alert box!");
+const log = () => {
+    console.log("ahmet");
+   }
+   log();
